@@ -1,5 +1,4 @@
-
-#Random Password Generator 
+Random Password Generator 
 
 
 This homework assignment required the use of arrays, functions, conditional statements, and the application of a for loop. 
